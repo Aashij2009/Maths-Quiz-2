@@ -1,0 +1,25 @@
+#body{
+    
+        background-image: url("math.jpg");
+        background-position: center;
+        background-size: cover;
+    
+}
+
+button{
+    width: 30%;
+    background-color: aquamarine; 
+    color: black;
+    font-weight: bold; 
+    border-radius: 5px;
+    font-size: 40px;
+    }
+h2{
+    font-weight: bold;
+    font-size: 45px;
+    color: red;
+    
+}
+label{
+    font-size: 25px;
+}
